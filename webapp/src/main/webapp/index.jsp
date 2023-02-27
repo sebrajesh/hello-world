@@ -6,16 +6,16 @@
 
 
     <label for="Name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="Name" id="Nmae" required>
+    <input type="text" placeholder="Enter Your Name" name="Name" id="Nmae" required>
     <br>
 
 
     <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Your Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter Your Password" name="psw" id="psw" required>
     
     <br>
 
