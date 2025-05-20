@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Register Form by me! 10 cicd create image and deploy to kubernetes!</h1>
+    <h1>New User Register Form by me! v11 cicd create image and deploy to kubernetes!</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
